@@ -754,6 +754,7 @@ MonoBehaviour:
   - {fileID: 1378169188}
   - {fileID: 563731099}
   - {fileID: 3840674}
+  animalIndex: 2
 --- !u!4 &1624383573
 Transform:
   m_ObjectHideFlags: 0
